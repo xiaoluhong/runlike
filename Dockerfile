@@ -6,4 +6,3 @@ RUN python3 get-pip.py
 RUN pip install runlike
 
 ENTRYPOINT ["runlike"]
-
